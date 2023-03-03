@@ -1,0 +1,5 @@
+Benchmark,Min(us),Avg(us),Max(us)
+ecdsa_verify,40.5,41.5,43.1
+ecdsa_sign,28.4,29.6,32.6
+schnorrsig_sign,21.4,22.5,23.8
+schnorrsig_verify,41.4,42.3,43.6

@@ -17,7 +17,7 @@ schnorr_example
 *.exe
 *.so
 *.a
-*.csv
+# *.csv
 !.gitignore
 *.log
 *.trs
@@ -42,9 +42,7 @@ libtool
 *.log
 *.trs
 
-coverage/
-coverage.html
-coverage.*.html
+
 *.gcda
 *.gcno
 *.gcov
